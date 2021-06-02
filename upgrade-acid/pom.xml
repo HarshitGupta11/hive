@@ -48,7 +48,7 @@
         <maven.surefire.plugin.version>3.0.0-M4</maven.surefire.plugin.version>
     </properties>
     <modules>
-        <module>pre-upgrade</module>
+        <!-- <module>pre-upgrade</module> -->
     </modules>
     <build>
         <plugins>
